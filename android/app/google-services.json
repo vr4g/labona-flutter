@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29171285207",
+    "project_id": "labonabrewery",
+    "storage_bucket": "labonabrewery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29171285207:android:81400aba10f7e53ceec492",
+        "android_client_info": {
+          "package_name": "com.example.labona_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29171285207-qucd68f1piagi0u1nujpfbg9fi8f3dd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fy6S2gWiw6Qc3pnI6DU78oYeGmQXaOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29171285207-qucd68f1piagi0u1nujpfbg9fi8f3dd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
